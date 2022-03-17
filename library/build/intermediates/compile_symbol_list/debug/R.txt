@@ -1,0 +1,5 @@
+int id srn_root_layout 0x0
+int string srn_drawer_close 0x0
+int string srn_drawer_open 0x0
+int string srn_ex_bad_content_view 0x0
+int string srn_ex_no_menu_view 0x0

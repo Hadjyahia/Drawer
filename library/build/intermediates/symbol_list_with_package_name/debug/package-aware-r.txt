@@ -1,0 +1,6 @@
+com.yarolegovich.slidingrootnav
+id srn_root_layout
+string srn_drawer_close
+string srn_drawer_open
+string srn_ex_bad_content_view
+string srn_ex_no_menu_view
